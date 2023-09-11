@@ -1,0 +1,182 @@
+body
+{
+	height: 100%;
+	width: 100%;
+	background-color: black;
+}
+
+{
+	color:lightskyblue ;
+}
+.myname
+{
+	font-size: 40px;
+	color: deeppink;
+    text-transform: uppercase;
+    text-decoration: underline wavy deeppink;
+}
+.myname:hover
+{
+	font-size: 50px;
+
+}
+.mymenu
+{
+	color: springgreen;
+	
+}
+.mymenu:hover
+{
+	color: deeppink;
+	transition-duration: 2s;
+}
+.home
+{
+	
+	background-color: whitesmoke;
+	color: deeppink;
+	font-size: 20px;
+	font-family: bold;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.dv
+{
+	
+	height: 500px;
+	width: 100%;
+	color: springgreen;
+}
+.re button
+{
+	background-color: deeppink;
+	border-radius: 30px;
+	margin-top: 20px;
+	color: black;
+	height: 30px;
+	width: 80px;
+	margin-left: 50px;
+
+}
+.re button:hover
+ {
+ 	width: 90px;
+ 	border-radius: 40px;
+ 	background-color: springgreen;
+
+	color: black;
+	transition-duration: 2s;
+}
+.info
+{
+	margin-top: 0px;
+	margin-left:0px;
+	height: 100vw;
+	width: 100%;
+background-repeat: no-repeat;
+
+}
+.h 
+{
+	margin-top:50px ;
+	margin-left: 50px;
+	font-size: 50px;
+	font-family: italic;
+
+}
+.hminfo
+{
+	margin-left: 50px;
+	font-size: 50px;
+	font-family: italic
+}
+.name
+{
+	margin-left: 50px;
+	font-size: 50px;
+	color: deeppink;
+	font-family: italic
+}
+.ab 
+{
+	color: deeppink;
+	font-size: 30px ;
+	font-family:arial ;
+	margin-top: 330px;
+	height: 600px;
+}
+.A 
+{
+   text-decoration: underline double;
+
+}
+
+
+.img 
+{
+	margin-top: 10px;
+}
+
+.co 
+{
+	margin-top: 50px;
+	color: white;
+	font-size: 20px;
+	font-family: italic;
+}
+
+.ta 
+{
+	color: white;
+}
+.sk
+{
+	margin-top: 100px;
+	color: deeppink;
+	text-decoration: underline double;
+}
+.skillshead
+{
+	color: white;
+}
+.all 
+{
+	color: white;
+	font-family: italic;
+}
+.c 
+{
+	height: 600px;
+	width: 100%;
+}
+.con
+{
+	text-decoration: underline double;
+	color: deeppink;
+	font-family: arial;
+}
+.icon 
+{
+	margin-top: 30px;
+	height: 600px;
+	width: 100%;
+}
+.im 
+{
+	margin-top: 30px;
+	margin-right: 600px;
+}
+.no 
+{
+	font-size: 20px;
+	color: white;
+	margin-left: 20px;
+}
+.em 
+{
+	margin-right: 490px;
+}
+.link
+{
+	margin-right: 250px;
+}
